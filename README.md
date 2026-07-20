@@ -241,19 +241,28 @@ Sistema local para automação de atendimento de baixo volume pelo WhatsApp, com
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img
-    alt="Estatísticas do GitHub"
-    height="190"
-    src="https://github-readme-stats.vercel.app/api?username=guilhermepires06&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
+  <a href="https://github.com/guilhermepires06?tab=followers">
+    <img
+      alt="Seguidores no GitHub"
+      title="Seguidores no GitHub"
+      src="https://img.shields.io/github/followers/guilhermepires06?style=for-the-badge&logo=github&label=Seguidores&labelColor=181717"
+    />
+  </a>
 
-  <img
-    alt="Linguagens mais utilizadas"
-    height="190"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepires06&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
+  <a href="https://github.com/guilhermepires06?tab=repositories">
+    <img
+      alt="Estrelas no GitHub"
+      title="Total de estrelas nos repositórios"
+      src="https://img.shields.io/github/stars/guilhermepires06?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Estrelas&labelColor=181717"
+    />
+  </a>
 </p>
 
+<p align="left">
+  <a href="https://github.com/guilhermepires06?tab=repositories">
+    <strong>📂 Ver todos os meus repositórios</strong>
+  </a>
+</p>
 ---
 
 ### 💬 Minha visão profissional
